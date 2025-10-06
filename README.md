@@ -15,6 +15,7 @@ This repository contains instructional materials for an introductory lab on **Py
 | `data/` | Example datasets (NYC boroughs, PATH stations) |
 | `images/` | Figures used in notebooks and slides |
 | `pyGIS_part1` | Jupyter/Colab notebooks with step-by-step exercises |
+| `pyGIS_part2` | Jupyter/Colab notebooks to reproduce ArcGIS project |
 
 ---
 
