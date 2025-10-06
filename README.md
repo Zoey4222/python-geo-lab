@@ -15,8 +15,8 @@ This repository contains instructional materials for an introductory lab on **Py
 | `data/` | Example datasets (NYC boroughs, PATH stations, and bike lanes) |
 | `images/` | Figures used in notebooks and slides |
 | `pyGIS_part1/` | Jupyter/Colab notebooks with step-by-step Python geospatial exercises |
-| `pyGIS_part2/` | Jupyter/Colab notebooks designed to reproduce ArcGIS-based workflows |
-|  | *(© Contributor: [Zilin Bian](https://zilinbian56.github.io/))* |
+| `pyGIS_part2/` | Jupyter/Colab notebooks designed to reproduce ArcGIS-based workflows *(© Contributor: [Zilin Bian](https://zilinbian56.github.io/))* |
+
 
 ---
 
