@@ -12,10 +12,11 @@ This repository contains instructional materials for an introductory lab on **Py
 
 | Folder | Description |
 |:--|:--|
-| `data/` | Example datasets (NYC boroughs, PATH stations) |
+| `data/` | Example datasets (NYC boroughs, PATH stations, and bike lanes) |
 | `images/` | Figures used in notebooks and slides |
-| `pyGIS_part1` | Jupyter/Colab notebooks with step-by-step exercises |
-| `pyGIS_part2` | Jupyter/Colab notebooks to reproduce ArcGIS project |
+| `pyGIS_part1/` | Jupyter/Colab notebooks with step-by-step Python geospatial exercises |
+| `pyGIS_part2/` | Jupyter/Colab notebooks designed to reproduce ArcGIS-based workflows |
+|  | *(© Contributor: [Zilin Bian](https://zilinbian56.github.io/))* |
 
 ---
 
@@ -32,3 +33,14 @@ All notebooks are Colab-ready — simply open using the badge below:
 conda create -n geo_env python=3
 conda activate geo_env
 conda install geopandas contextily folium matplotlib pandas shapely fiona
+
+
+## 🙏 Acknowledgments & Contributors
+
+This lab project was developed and refined with the support and collaboration of:
+
+- **Prof. Kaan Ozbay** — NYU Tandon School of Engineering, leader 
+- **Dr. Zilin Bian** — original contributor of materials  
+- **Eren Kaval** — collaborator and reviewer  
+
+Special thanks to the **C2SMART Center at NYU** for providing data and resources supporting Python-based GIS education.
