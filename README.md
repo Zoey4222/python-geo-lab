@@ -43,4 +43,4 @@ This lab project was developed and refined with the support and collaboration of
 - **Dr. Zilin Bian** — original contributor of materials  
 - **Eren Kaval** — collaborator and reviewer  
 
-Special thanks to the **C2SMART Center at NYU** for providing data and resources supporting Python-based GIS education.
+Special thanks to the **C2SMART Center at NYU**.
