@@ -33,7 +33,7 @@ All notebooks are Colab-ready — simply open using the badge below:
 conda create -n geo_env python=3
 conda activate geo_env
 conda install geopandas contextily folium matplotlib pandas shapely fiona
-
+---
 
 ## 🙏 Acknowledgments & Contributors
 
